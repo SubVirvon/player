@@ -1,0 +1,8 @@
+C:\Users\Danii\source\repos\player\player\bin\Debug\player.exe.config
+C:\Users\Danii\source\repos\player\player\bin\Debug\player.exe
+C:\Users\Danii\source\repos\player\player\bin\Debug\player.pdb
+C:\Users\Danii\source\repos\player\player\obj\Debug\player.csproj.AssemblyReference.cache
+C:\Users\Danii\source\repos\player\player\obj\Debug\player.csproj.SuggestedBindingRedirects.cache
+C:\Users\Danii\source\repos\player\player\obj\Debug\player.csproj.CoreCompileInputs.cache
+C:\Users\Danii\source\repos\player\player\obj\Debug\player.exe
+C:\Users\Danii\source\repos\player\player\obj\Debug\player.pdb
